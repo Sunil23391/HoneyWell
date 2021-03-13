@@ -1,0 +1,13 @@
+.container {
+    padding: 2px 16px;
+}
+.pokemon-name{
+    font-size: 20px;
+    font-weight: bold;
+    text-decoration: blanchedalmond;
+}
+
+.list-of-abiliites {
+    margin-left: 20px;
+    color: rgb(29, 25, 25);
+}
